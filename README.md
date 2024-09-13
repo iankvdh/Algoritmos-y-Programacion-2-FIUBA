@@ -1,6 +1,6 @@
 # Algoritmos y Programación 2 - FIUBA
 
-Este repositorio contiene los trabajos prácticos y proyectos desarrollados para la materia Algoritmos y Programación 2 en la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA). Los trabajos fueron implementados en los lenguajes C y Python.
+Este repositorio contiene los trabajos prácticos y proyectos desarrollados para la materia Algoritmos y Programación 2 cátedea Buchwald en la Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA). Los trabajos fueron implementados en los lenguajes C y Python.
 
 ## Alumno:
     Ian Klaus von der Heyde - 107638
